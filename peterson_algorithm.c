@@ -1,4 +1,4 @@
-// Peterson algorithm for Operating Systems course 
+/*Peterson algorithm for Operating Systems course*/
 
 #include <stdio.h>
 #include <pthread.h>
